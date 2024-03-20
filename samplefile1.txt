@@ -4,3 +4,4 @@ for the wages of sin is death
 
 Testing reset commit 1
 This is comparison Lecture
+This is stash lecture, change in file 1

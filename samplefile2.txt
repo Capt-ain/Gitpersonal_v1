@@ -2,3 +2,4 @@ This is sample file 2
 
 Testing Revert Commit 2
 This is comparison Lecture, Change
+This is stash lecture, change in file 2
