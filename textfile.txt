@@ -1,1 +1,3 @@
 This is Sample text file
+
+This is a new Commit from Local Machine
