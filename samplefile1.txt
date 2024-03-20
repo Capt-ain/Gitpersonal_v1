@@ -1,4 +1,2 @@
 This is sample file 1
 Testing reset commit 1
-
-Testing Revert commit  1
